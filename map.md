@@ -2,4 +2,4 @@ layout: page
 title: "Map showing incident reports"
 permalink: /MAP/
 
-![Israel](./Car Crash Project/map.jpg)
+![Israel](/Car Crash Project/map.jpg)
