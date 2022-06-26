@@ -17,7 +17,8 @@ The goal of this project is to predict severe accidents based on specific locati
 So far the data's accuracy is set at 80%, which is good enough but not perfect. The best algorithm was the decision tree, which showed only about 0.9% improvement.
 
 ## The Code
-We are using Anaconda distribution for the Python Code. The libraries being used in this project are Pandas, scikit-learn, Matplotlib and Seaborn.
-Pandas for data tables and manipulating that data
-scikit for machine learning
-Matplotlib and Seaborn for drawing plots to display that data
+We are using Anaconda distribution for the Python Code. The libraries being used in this project are Pandas, Scikit-learn, Matplotlib and Seaborn.
+
+* Pandas for data tables and manipulating that data
+* Scikit for machine learning
+* Matplotlib and Seaborn for drawing plots to display that data
