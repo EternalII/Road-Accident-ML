@@ -1,4 +1,4 @@
-# Road-Accident-Prediction through Machine Learning
+# Road Risk prediction through Machine Learning
 
 ## Intro
 This is a machine learning project for Data Science course in HIT, where we are tasked to predict results using Machine Learning. We chose to focus on predicting severe road accidents as the best way to avoid an accident is not to be in one in the first place.
