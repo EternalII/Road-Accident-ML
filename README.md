@@ -1,4 +1,4 @@
-[Show Map](https://eternalii.github.io/Road-Accident-ML/map.md){: .btn}
+[Show Map](https://eternalii.github.io/Road-Accident-ML/map){: .btn}
 
 # Road Risk prediction through Machine Learning
 
